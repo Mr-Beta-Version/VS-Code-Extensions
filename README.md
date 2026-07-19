@@ -23,4 +23,5 @@ Bookmarks
 TODO Highlight
 Spreadsheet Viewer
 Live Server
+MobileView
 ```
