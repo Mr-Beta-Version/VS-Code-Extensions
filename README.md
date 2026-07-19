@@ -17,7 +17,7 @@ Path Intellisense
 TODO Highlight
 Code Spell Checker
 Indent Rainbow
--Bookmarks
--Project Manager
+Bookmarks
+Project Manager
 
 ```
